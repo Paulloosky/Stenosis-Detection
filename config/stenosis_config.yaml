@@ -1,0 +1,11 @@
+path: "../datasets/stenosis_dataset/"
+train: 'images/train'
+val: 'images/val'
+test: 'images/test'
+
+# class names
+names:
+  0: "Grade 0 Stenosis"
+  1: "Grade 1 Stenosis"
+  2: "Grade 2 Stenosis"
+  3: "Grade 3 Stenosis"

@@ -1,0 +1,12 @@
+path: "../datasets/segmentation_dataset"
+train: 'images/train'
+val: 'images/val'
+test: 'images/test'
+
+# class names
+names:
+  0: "Disks"
+  1: "Laminar"
+  2: "Spinal Canal"
+  3: "Spinal Cord"
+  4: "Vertebrae"

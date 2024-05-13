@@ -1,0 +1,10 @@
+extras/
+datasets/
+**/stenosis_yolov8s?/
+**/stenosis_yolov8s_dropout?/
+**/stenosis_yolov8s_freeze?/
+**/stenosis_yolov9c?/
+**/stenosis_yolov9c_dropout?/
+**/stenosis_yolov9c_freeze?/
+yolov8_segmentation/
+yolov9_segmentation/

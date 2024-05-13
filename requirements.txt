@@ -1,0 +1,15 @@
+imageio==2.34.1
+label-studio==1.11.0
+numpy==1.26.4
+opencv-python-headless
+pillow>=8.3.2
+psycopg2-binary==2.9.6
+pycocotools==2.0.7
+pydicom==2.4.4
+scikit-learn==1.2.2
+streamlit==1.34.0
+torch==2.2.1
+ujson==5.9.0
+ultralytics==8.1.47
+matplotlib==3.8.4
+dill==0.3.8
